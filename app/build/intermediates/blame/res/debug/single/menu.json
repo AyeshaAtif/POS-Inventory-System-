@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail_menu.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\menu\\detail_menu.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail_menu.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\menu\\detail_menu.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

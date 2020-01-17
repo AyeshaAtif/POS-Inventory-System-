@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/lang_en"
+        android:title="English(USA)"/>
+
+    <item
+        android:id="@+id/lang_urdu"
+        android:title="English(UK)"/>
+</menu>

@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_paymentsuccession.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\layout\\dialog_paymentsuccession.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_lineitem.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\layout\\listview_lineitem.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_saledetail.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\layout\\layout_saledetail.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_inventory.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\layout\\listview_inventory.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_addproduct.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\layout\\layout_addproduct.xml"
+    },
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_stock.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\layout\\listview_stock.xml"
+    },
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_payment.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\layout\\dialog_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_productdetail_main.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\layout\\layout_productdetail_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_report.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\layout\\listview_report.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_splashscreen.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\layout\\layout_splashscreen.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_report.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\layout\\layout_report.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_saleedit.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\layout\\dialog_saleedit.xml"
+    },
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_splashscreen.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\layout\\layout_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_lineitem.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\layout\\listview_lineitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_addproduct.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\layout\\layout_addproduct.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_productdetail_stock.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\layout\\layout_productdetail_stock.xml"
+    },
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_productdetail_detail.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\layout\\layout_productdetail_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_saleedit.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\layout\\dialog_saleedit.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_payment.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\layout\\dialog_payment.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_report.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\layout\\listview_report.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_stock.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\layout\\listview_stock.xml"
+    },
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_report.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\layout\\layout_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_inventory.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\layout\\layout_inventory.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_addproductlot.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\layout\\layout_addproductlot.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_sale.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\layout\\layout_sale.xml"
+    },
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_productdetail_stock.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\layout\\layout_productdetail_stock.xml"
+    },
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_sale.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\layout\\layout_sale.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_main.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\layout\\layout_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_saledetail.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\layout\\layout_saledetail.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_inventory.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\layout\\layout_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_addproductlot.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\layout\\layout_addproductlot.xml"
+    },
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_inventory.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\layout\\listview_inventory.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_paymentsuccession.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\layout\\dialog_paymentsuccession.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_productdetail_detail.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\layout\\layout_productdetail_detail.xml"
+    },
+    {
+        "merged": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_productdetail_main.xml",
+        "source": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\layout\\layout_productdetail_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_main.xml",
+        "source": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\layout\\layout_main.xml"
+    }
+]

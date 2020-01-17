@@ -1,0 +1,1234 @@
+[
+    {
+        "outputFile": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2319,
+                    "endColumn": 57,
+                    "endOffset": 2372
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2377,
+                    "endColumn": 55,
+                    "endOffset": 2428
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2433,
+                    "endColumn": 43,
+                    "endOffset": 2472
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\gridlayout-v7\\18.0.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2477,
+                    "endColumn": 40,
+                    "endOffset": 2513
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 2943,
+                        "endColumn": 40,
+                        "endOffset": 2979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2518,
+                    "endColumn": 52,
+                    "endOffset": 2566
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2571,
+                    "endColumn": 59,
+                    "endOffset": 2626
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2631,
+                    "endColumn": 55,
+                    "endOffset": 2682
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2687,
+                    "endColumn": 40,
+                    "endOffset": 2723
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2728,
+                    "endColumn": 43,
+                    "endOffset": 2767
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2772,
+                    "endColumn": 41,
+                    "endOffset": 2809
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2814,
+                    "endColumn": 37,
+                    "endOffset": 2847
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2852,
+                    "endColumn": 41,
+                    "endOffset": 2889
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2894,
+                    "endColumn": 39,
+                    "endOffset": 2929
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2934,
+                    "endColumn": 40,
+                    "endOffset": 2970
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 2975,
+                    "endColumn": 37,
+                    "endOffset": 3008
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3013,
+                    "endColumn": 49,
+                    "endOffset": 3058
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3063,
+                    "endColumn": 87,
+                    "endOffset": 3146
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3151,
+                    "endColumn": 70,
+                    "endOffset": 3217
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3222,
+                    "endColumn": 95,
+                    "endOffset": 3313
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3318,
+                    "endColumn": 37,
+                    "endOffset": 3351
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3356,
+                    "endColumn": 37,
+                    "endOffset": 3389
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3394,
+                    "endColumn": 53,
+                    "endOffset": 3443
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3448,
+                    "endColumn": 58,
+                    "endOffset": 3502
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3507,
+                    "endColumn": 101,
+                    "endOffset": 3604
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3609,
+                    "endColumn": 61,
+                    "endOffset": 3666
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3671,
+                    "endColumn": 33,
+                    "endOffset": 3700
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3705,
+                    "endColumn": 47,
+                    "endOffset": 3748
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3753,
+                    "endColumn": 43,
+                    "endOffset": 3792
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3797,
+                    "endColumn": 42,
+                    "endOffset": 3835
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3840,
+                    "endColumn": 37,
+                    "endOffset": 3873
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3878,
+                    "endColumn": 43,
+                    "endOffset": 3917
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3922,
+                    "endColumn": 34,
+                    "endOffset": 3952
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3957,
+                    "endColumn": 33,
+                    "endOffset": 3986
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 3991,
+                    "endColumn": 66,
+                    "endOffset": 4053
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 4058,
+                    "endColumn": 41,
+                    "endOffset": 4095
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4100,
+                    "endColumn": 57,
+                    "endOffset": 4153
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 4158,
+                    "endColumn": 45,
+                    "endOffset": 4199
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 4204,
+                    "endColumn": 37,
+                    "endOffset": 4237
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4242,
+                    "endColumn": 41,
+                    "endOffset": 4279
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4284,
+                    "endColumn": 41,
+                    "endOffset": 4321
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4326,
+                    "endColumn": 37,
+                    "endOffset": 4359
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4364,
+                    "endColumn": 37,
+                    "endOffset": 4397
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4402,
+                    "endColumn": 39,
+                    "endOffset": 4437
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4442,
+                    "endColumn": 43,
+                    "endOffset": 4481
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 4486,
+                    "endColumn": 39,
+                    "endOffset": 4521
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 4526,
+                    "endColumn": 49,
+                    "endOffset": 4571
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4576,
+                    "endLine": 100,
+                    "endColumn": 12,
+                    "endOffset": 4654
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 4659,
+                    "endLine": 103,
+                    "endColumn": 12,
+                    "endOffset": 4726
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4731,
+                    "endLine": 116,
+                    "endColumn": 12,
+                    "endOffset": 5354
+                },
+                "from": {
+                    "file": "C:\\Users\\bilal\\AndroidStudioProjects\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2319,
+                    "endColumn": 57,
+                    "endOffset": 2372
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2377,
+                    "endColumn": 55,
+                    "endOffset": 2428
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2433,
+                    "endColumn": 43,
+                    "endOffset": 2472
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\gridlayout-v7\\18.0.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2477,
+                    "endColumn": 40,
+                    "endOffset": 2513
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2518,
+                    "endColumn": 52,
+                    "endOffset": 2566
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2571,
+                    "endColumn": 59,
+                    "endOffset": 2626
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2631,
+                    "endColumn": 55,
+                    "endOffset": 2682
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2687,
+                    "endColumn": 49,
+                    "endOffset": 2732
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2737,
+                    "endColumn": 43,
+                    "endOffset": 2776
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2781,
+                    "endColumn": 41,
+                    "endOffset": 2818
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2823,
+                    "endColumn": 37,
+                    "endOffset": 2856
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2861,
+                    "endColumn": 41,
+                    "endOffset": 2898
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2903,
+                    "endColumn": 39,
+                    "endOffset": 2938
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2943,
+                    "endColumn": 40,
+                    "endOffset": 2979
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 2984,
+                    "endColumn": 37,
+                    "endOffset": 3017
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3022,
+                    "endColumn": 49,
+                    "endOffset": 3067
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3072,
+                    "endColumn": 94,
+                    "endOffset": 3162
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3167,
+                    "endColumn": 77,
+                    "endOffset": 3240
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3245,
+                    "endColumn": 95,
+                    "endOffset": 3336
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3341,
+                    "endColumn": 37,
+                    "endOffset": 3374
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3379,
+                    "endColumn": 37,
+                    "endOffset": 3412
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3417,
+                    "endColumn": 53,
+                    "endOffset": 3466
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3471,
+                    "endColumn": 58,
+                    "endOffset": 3525
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3530,
+                    "endColumn": 101,
+                    "endOffset": 3627
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3632,
+                    "endColumn": 61,
+                    "endOffset": 3689
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3694,
+                    "endColumn": 33,
+                    "endOffset": 3723
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3728,
+                    "endColumn": 47,
+                    "endOffset": 3771
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3776,
+                    "endColumn": 43,
+                    "endOffset": 3815
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3820,
+                    "endColumn": 42,
+                    "endOffset": 3858
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3863,
+                    "endColumn": 37,
+                    "endOffset": 3896
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3901,
+                    "endColumn": 43,
+                    "endOffset": 3940
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3945,
+                    "endColumn": 34,
+                    "endOffset": 3975
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3980,
+                    "endColumn": 33,
+                    "endOffset": 4009
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4014,
+                    "endColumn": 66,
+                    "endOffset": 4076
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 4081,
+                    "endColumn": 41,
+                    "endOffset": 4118
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4123,
+                    "endColumn": 57,
+                    "endOffset": 4176
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 4181,
+                    "endColumn": 45,
+                    "endOffset": 4222
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 4227,
+                    "endColumn": 37,
+                    "endOffset": 4260
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4265,
+                    "endColumn": 41,
+                    "endOffset": 4302
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4307,
+                    "endColumn": 41,
+                    "endOffset": 4344
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4349,
+                    "endColumn": 37,
+                    "endOffset": 4382
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4387,
+                    "endColumn": 37,
+                    "endOffset": 4420
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4425,
+                    "endColumn": 39,
+                    "endOffset": 4460
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4465,
+                    "endColumn": 43,
+                    "endOffset": 4504
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 4509,
+                    "endColumn": 39,
+                    "endOffset": 4544
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 4549,
+                    "endColumn": 49,
+                    "endOffset": 4594
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4599,
+                    "endLine": 100,
+                    "endColumn": 12,
+                    "endOffset": 4677
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 4682,
+                    "endLine": 103,
+                    "endColumn": 12,
+                    "endOffset": 4749
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4754,
+                    "endLine": 116,
+                    "endColumn": 12,
+                    "endOffset": 5377
+                },
+                "from": {
+                    "file": "E:\\Semester 7\\MAD\\POS\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]
